@@ -1,0 +1,17 @@
+Actúa como un desarrollador web experto en JavaScript, HTML y CSS.
+
+Objetivo: Escribir la lógica necesaria para validar inputs de formulario en JavaScript en el evento onblur.
+
+Reglas de Validación:
+
+- No vacío: El campo es obligatorio.
+- Solo números: Únicamente se permiten caracteres numéricos (0-9).
+- Longitud: Máximo 5 dígitos.
+- Requisitos Técnicos:
+- Utilizar el evento onblur para realizar la validación al salir del campo.
+- No modificar los IDs existentes en el HTML.
+- No usar alert(). Los mensajes de error deben mostrarse dinámicamente en un elemento (<span> o <small>) ubicado justo debajo de cada input.
+- Estilo del mensaje de error: texto en color rojo y en cursiva.
+- Formato de Salida Obligatorio:
+- No generes la página ni la estructura completa.
+- Devuelve únicamente los fragmentos de código específicos que debo agregar o modificar organizados por secciones: HTML, CSS y JavaScript.
